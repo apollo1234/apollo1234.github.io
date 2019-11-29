@@ -44,3 +44,8 @@
     * resConfigs
 * lib 目录优化
     * 对 arm 提供支持，
+    
+---
+### 参考：
+- [爱奇艺Android移动客户端app瘦身经验](https://mp.weixin.qq.com/s/xVCJ-MMt1KSO7kpN4CFXBQ)
+- [缩小APK，增加下载量](https://juejin.im/post/5a388c73518825696f7e1ddb)
